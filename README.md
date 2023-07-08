@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ashish-kumar-gupta-50aa71171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish kumar gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/ashish.kr.gupta.100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish.kr.gupta.100" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/ashish kumar gupta](https://leetcode.com/ashishgupta2972002/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish kumar gupta" height="30" width="40" /></a>
+<a href="https://leetcode.com/ashishgupta2972002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish kumar gupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
